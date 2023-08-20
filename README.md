@@ -17,7 +17,7 @@ as the executable otherwise the program will shutdown!
 Download a Java Interpreter and run the jar file from your OS: 
 https://www.oracle.com/java/technologies/downloads/
 
-# Dependencies ClueSetup.txt & ClueLayout.csv
+# Dependencies (ClueSetup.txt & ClueLayout.csv)
 Clue Game is customizeable allowing you to add your own charaters, weaponds and board layout by editing the ClueLayout.csv(BOARD)
 and the ClueSetup.txt(WEAPONS/CHARACTERS). Make sure you have these files at the same level as the jar or exe otherwise
 the program will instantly shutdown.
