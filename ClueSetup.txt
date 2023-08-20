@@ -1,0 +1,27 @@
+// Rooms and room cards
+Room, Kitchen, K
+Room, Bowling Alley, B
+Room, Library, L
+Room, Pantry, P
+Room, Racetrack, R
+Room, Arcade, A
+Room, Mines Market, M
+Room, Gym, G
+Room, Observatory, O
+// other spaces on board
+Space, Unused, X
+Space, Walkway, W
+// Players
+Player, You, magenta, Human, 27, 12
+Player, Ness, red, Computer, 27, 9
+Player, Paula, pink, Computer, 27, 10
+Player, Jeff, blue, Computer, 27, 11
+Player, Poo, white, Computer, 27, 8
+Player, Pokey, green, Computer, 27, 13
+// Weapons
+Weapon, Bat
+Weapon, Pen
+Weapon, Kitchen Knife
+Weapon, Yoyo
+Weapon, Superglue
+Weapon, PSI Fire
