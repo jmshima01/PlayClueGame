@@ -1,5 +1,6 @@
 # Play Clue Game Now!
 By: James Shima
+
 Created using Java, JUnit, and Swing!
 Download and play now! 
 Source code and repo is private due to Collaboration Policy @ Colorado School of Mines. 
