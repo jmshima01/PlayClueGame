@@ -8,7 +8,9 @@ Source code and repo is private due to Collaboration Policy @ Colorado School of
 
 
 # Download for Windows:
-Click the [<>Code] icon and download this repo as a zip (or clone if you prefer).
+https://github.com/jmshima01/PlayClueGame/archive/refs/heads/main.zip
+
+Click the link to download this repo as a zip (or clone if you prefer).
 Then extract the zip and run/click the .exe file within the folder. 
 Make sure ClueLayout.csv and ClueSetup.txt are in the same dir
 as the executable otherwise the program will shutdown!
