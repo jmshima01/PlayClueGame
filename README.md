@@ -1,10 +1,10 @@
-# Clue Game!
+# Clue Game
 By: James Shima
 
 Created using Java, JUnit, and Swing!
 Download and play now! 
 
-<img ref="https://jmshima01.github.io/images/clueGame.png">
+![Alt text](https://jmshima01.github.io/images/clueGame.png)
 
 Source code and repo is private due to Collaboration Policy @ Colorado School of Mines. 
 
